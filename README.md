@@ -1,5 +1,4 @@
 # RedeSocialGolang
-Código desenvolvido durante o curso de golang na udemy do professor Otávio Augusto Gallego.
 
 Durante o desenvolvimento do back-end foram utilizadas as seguntes tecnologias e pacotes:
 <ul>
